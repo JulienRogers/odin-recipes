@@ -12,11 +12,14 @@ body {
  }
 
  li button {
-    background-color: rgb(153, 67, 28);
     font-weight: 600;
+    text-decoration: underline;
+    background-color: rgb(250, 250, 231);
+    font-size: 20px;
     font-family: Garamond, Georgia, sans-serif;
     color: rgb(32, 32, 32);
     list-style: inside;
+    border: 0ch;
  }
  #back {
    font-size: 22px;
