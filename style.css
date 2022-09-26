@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(250, 250, 231);
+ }
+
+ .title, p {
+    font-family: Garamond, Georgia, sans-serif;
+    color: rgb(32, 32, 32);
+ }
+
+ .main.title {
+    text-align: center;
+ }
+
+ li button {
+    background-color: rgb(153, 67, 28);
+    font-weight: 600;
+    font-family: Garamond, Georgia, sans-serif;
+    color: rgb(32, 32, 32);
+    list-style: inside;
+ }
