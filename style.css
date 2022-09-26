@@ -18,3 +18,15 @@ body {
     color: rgb(32, 32, 32);
     list-style: inside;
  }
+ #back {
+   font-size: 22px;
+   font-style: italic;
+ }
+
+ .ingredients, #directions {
+   font-family: Garamond, Georgia, sans-serif;
+   color: rgb(32, 32, 32);
+   font-style: italic;
+ }
+
+
